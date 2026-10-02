@@ -1,0 +1,6 @@
+{
+  "name": "Microstock Motion Exporter",
+  "description": "Turn Canvas 2D motion code into microstock-ready video assets with deterministic frame rendering, preset configurations, and metadata generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
