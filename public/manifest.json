@@ -1,0 +1,16 @@
+{
+  "name": "Microstock Motion Exporter",
+  "short_name": "MotionExporter",
+  "description": "Turn Canvas Motion Code into Microstock-Ready Video Assets",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0d13",
+  "theme_color": "#7457FF",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%237457FF'><polygon points='5 3 19 12 5 21 5 3'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
